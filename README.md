@@ -3,9 +3,9 @@
 <tr>
 <td>
 
-```
+
 ![Terminal](carbon.png)
-```
+
 
 </td>
 <td>
