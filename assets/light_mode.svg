@@ -1,107 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
 
     <!-- Background -->
-    <rect width="1200" height="620" rx="18" fill="#ffffff"></rect>
+    <rect width="1200" height="650" rx="20" fill="#ffffff"></rect>
 
-    <!-- Border -->
-    <rect x="5" y="5" width="1190" height="610" rx="18" fill="none" stroke="#d0d7de" stroke-width="2"></rect>
+    <!-- Outer Border -->
+    <rect x="5" y="5" width="1190" height="640" rx="20" fill="none" stroke="#d0d7de" stroke-width="2"></rect>
 
-    <!-- Username -->
-    <text x="640" y="90" font-family="Cascadia Code, Consolas, monospace" font-size="36" font-weight="700" fill="#24292f">
+    <!-- Terminal Header -->
+    <rect x="5" y="5" width="1190" height="45" rx="20" fill="#f6f8fa"></rect>
 
-        bijit1234
-    </text>
+    <!-- Fix bottom corners -->
+    <rect x="5" y="30" width="1190" height="20" fill="#f6f8fa"></rect>
 
-    <!-- Line -->
-    <line x1="640" y1="110" x2="1110" y2="110" stroke="#0969da" stroke-width="2"></line>
+    <!-- Terminal Buttons -->
+    <circle cx="35" cy="27" r="7" fill="#ff5f56"></circle>
+    <circle cx="60" cy="27" r="7" fill="#ffbd2e"></circle>
+    <circle cx="85" cy="27" r="7" fill="#27c93f"></circle>
 
-    <!-- Quote -->
-    <text x="640" y="145" font-family="Cascadia Code, monospace" font-size="18" fill="#57606a">
+    <!-- Terminal Title -->
+    <text x="950" y="32" font-size="18" font-family="Cascadia Code, monospace" fill="#57606a">
 
-        &gt; Building cool things, one commit at a time.
-    </text>
-
-    <!-- Role -->
-    <text x="640" y="205" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        Role
-    </text>
-
-    <text x="810" y="205" font-family="monospace" font-size="22" fill="#24292f">
-
-        Full-Stack Developer
-    </text>
-
-    <!-- Learning -->
-    <text x="640" y="245" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        Learning
-    </text>
-
-    <text x="810" y="245" font-family="monospace" font-size="22" fill="#24292f">
-
-        B.Tech CSE (Data Science)
-    </text>
-
-    <!-- Languages -->
-    <text x="640" y="285" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        Languages
-    </text>
-
-    <text x="810" y="285" font-family="monospace" font-size="22" fill="#24292f">
-
-        Python • Java • JavaScript
-    </text>
-
-    <!-- Database -->
-    <text x="640" y="325" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        Database
-    </text>
-
-    <text x="810" y="325" font-family="monospace" font-size="22" fill="#24292f">
-
-        MongoDB • MySQL
-    </text>
-
-    <!-- Contact -->
-    <text x="640" y="405" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        GitHub
-    </text>
-
-    <text x="810" y="405" font-family="monospace" font-size="22" fill="#0969da">
-
-        github.com/bijit1234
-    </text>
-
-    <text x="640" y="445" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        LinkedIn
-    </text>
-
-    <text x="810" y="445" font-family="monospace" font-size="22" fill="#0969da">
-
-        linkedin.com/in/bijitpolley
-    </text>
-
-    <text x="640" y="485" font-family="monospace" font-size="22" fill="#bc4c00">
-
-        Email
-    </text>
-
-    <text x="810" y="485" font-family="monospace" font-size="22" fill="#0969da">
-
-        bijitpolley@gmail.com
-    </text>
-
-    <!-- Portrait Placeholder -->
-    <rect x="60" y="60" width="500" height="500" rx="12" fill="#f6f8fa" stroke="#d0d7de"></rect>
-
-    <text x="145" y="320" font-family="monospace" font-size="28" fill="#57606a">
-
-        Terminal Portrait
+        ~/home/bijit1234/profile
     </text>
 
 </svg>
