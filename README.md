@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Bijit+%F0%9F%91%8B;Developer+%7C+Sculptor+%7C+Painter;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <table border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td>
+<tr border="0">
+<td border="0">
 
 ```
 ---------------------------------------------------------
@@ -40,12 +40,12 @@
 
 
 </td>
-<td>
+<td border="0">
 
 ```ansi
                     bijit1234@github
                     ─────────────────
-![OS:](https://img.shields.io/badge/OS-Windows%2011%2C%20Android%2015-blue?style=flat-square&labelColor=orange) ..................... Windows 11, Android 15
+OS: ..................... Windows 11, Android 15
 Uptime: .................. 21 years, 7 months, 29 days
 Languages.Programming: ... Python, JavaScript, ...
 Languages.Real: .......... Bengali, English, ...
