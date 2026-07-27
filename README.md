@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Bijit+%F0%9F%91%8B;Developer+%7C+Sculptor+%7C+Painter;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-<table>
+<table border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td>
 
