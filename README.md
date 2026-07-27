@@ -45,7 +45,7 @@
 ```ansi
                     bijit1234@github
                     ─────────────────
-OS: ..................... Windows 11, Android 15
+![OS:](https://img.shields.io/badge/OS-Windows%2011%2C%20Android%2015-blue?style=flat-square&labelColor=orange) ..................... Windows 11, Android 15
 Uptime: .................. 21 years, 7 months, 29 days
 Languages.Programming: ... Python, JavaScript, ...
 Languages.Real: .......... Bengali, English, ...
