@@ -22,5 +22,25 @@
 
         ~/home/bijit1234/profile
     </text>
+<!-- Left Panel -->
+<rect
+    x="30"
+    y="70"
+    width="500"
+    height="540"
+    rx="12"
+    fill="#ffffff"
+    stroke="#d0d7de"
+    stroke-width="1.5"/>
 
+<!-- Right Panel -->
+<rect
+    x="560"
+    y="70"
+    width="610"
+    height="540"
+    rx="12"
+    fill="#ffffff"
+    stroke="#d0d7de"
+    stroke-width="1.5"/>
 </svg>
