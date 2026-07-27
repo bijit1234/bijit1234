@@ -25,3 +25,6 @@
 ```
 
 </div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Full+Stack+Learner;Always+Building+Something+Cool" />
+</p>
