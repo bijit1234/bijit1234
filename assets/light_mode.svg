@@ -43,4 +43,36 @@
     fill="#ffffff"
     stroke="#d0d7de"
     stroke-width="1.5"/>
+
+<!-- Username -->
+<text
+    x="600"
+    y="120"
+    font-family="Cascadia Code, Consolas, monospace"
+    font-size="34"
+    font-weight="700"
+    fill="#24292f">
+
+    bijit1234
+</text>
+
+<!-- Divider -->
+<line
+    x1="600"
+    y1="145"
+    x2="1120"
+    y2="145"
+    stroke="#0969DA"
+    stroke-width="2"/>
+
+<!-- Quote -->
+<text
+    x="600"
+    y="180"
+    font-family="Cascadia Code, Consolas, monospace"
+    font-size="18"
+    fill="#57606A">
+
+    &gt; Building cool things, one commit at a time.
+</text>    
 </svg>
